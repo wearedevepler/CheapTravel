@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--这是mainactivity中hotel的tabs的资源-->
+    <string-array name="hotel_tabs">
+        <item>首页</item>
+        <item>目的地</item>
+        <item>商城</item>
+        <item>社区</item>
+    </string-array>
+</resources>
